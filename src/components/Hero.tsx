@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
         <p className="hero-description">
           I am a passionate web developer skilled in crafting responsive visually appealing websites
         </p> 
-        <Link href="#"> <button className="explore-button">Hire Me</button></Link>
+        <Link href="https://www.linkedin.com/in/muhammad-mubashir-saeedi/"> <button className="explore-button">Hire Me</button></Link>
        
       </div>
     </section>
